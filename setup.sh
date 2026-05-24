@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 # ===== CONFIG =====
-DOMAIN="yourdomain.com" # Change this
-EMAIL="you@email.com" # For Let's Encrypt
+DOMAIN="a.debb1.me" # Change this
+EMAIL="debbyzeus@gmail.com" # For Let's Encrypt
 SSH_PORT="22" # Change if your SSH runs on different port
 WS_PORT="443" # 443 for SSL, 80 for non-SSL
 USE_SSL="true" # true/false
