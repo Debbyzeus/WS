@@ -4,7 +4,6 @@ DOMAIN="a.debb1.me"
 EMAIL="debbyzeus@gmail.com"
 SSH_PORT="22"
 WS_PORT="443"
-
 echo "[1/5] Updating packages..."
 apt update&&apt upgrade -y
 apt install -y wget curl unzip socat openssh-server
